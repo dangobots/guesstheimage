@@ -1,4 +1,4 @@
-# Guess The Image Terms and conditions
+# Guess The Image Terms of Service
 
 ## Conditions
 
