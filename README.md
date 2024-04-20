@@ -4,7 +4,7 @@ Play picture guessing with your friends! You can play casually or compete to cli
 
 Start a game with **/start** or **/rapidfire** and be the first to guess the image. You can play up to 200 rounds per game with multiple pictures and hints per round. You have free access to unlimited games and infinite images!
 
-#### Features
+### Features
 
 -Normal and Rapidfire modes:
 Rapidfire games have faster rounds with double the points and a better chance to obtain coins.
@@ -30,10 +30,10 @@ Check your rankings in the daily, monthly and all-time score leaderboards, for y
 
 The game is still on active development, so expect many more features and improvements in the future.
 
-#### Links
+### Links
 
 If you like our bot, consider voting on [topgg](https://top.gg/bot/1217591747945959455) and [discordbotlist](https://discordbotlist.com/bots/guess-the-image) to help this project. Its free! 
 
 What are you waiting for? Click [here](https://discord.com/oauth2/authorize?client_id=1217591747945959455&permissions=413122612288&scope=bot+applications.commands) to invite our bot to your community and have some fun! 
 
-For support, visit our [official support server](https://discord.gg/4ct7fJ4u4Y) on Discord.
+For any support, click [here](https://discord.gg/4ct7fJ4u4Y) to visit official support server on Discord and send us a message.
