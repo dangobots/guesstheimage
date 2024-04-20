@@ -8,7 +8,7 @@ Guess the Image only stores Server IDs, User IDs and Channel IDs.
 - Why are we collecting such information?
 User IDs are stored solely to index the user's game data (such as score, game items, team membership, and game balance).
 Channel IDs are stored solely to enable the game on channels chosen by the user.
-Guild IDs are stored solely to index the guild's game data (such as premium status and server leaderboards) Channel IDs from enabled channels are collected to configure the bot on such channels. Server IDs are collected for storing member scores for server stats and leaderboards.
+Guild IDs are stored solely to index the guild's game data (such as premium status and server leaderboards)
   
 - For how long is the data stored?
 Channel IDs are stored or deleted when the user enables or disables the game in a channel with **/enable** or **/disable**.
