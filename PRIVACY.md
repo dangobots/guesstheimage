@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Thank you for reading our privacy policy page, We assure our clients that their data and information will be completely secure in our databases. Please read furthur for elaboration on the information we collect.
+Thank you for reading our privacy policy page, We assure our clients that their data and information will be completely secure in our databases. Please read further for elaboration on the information we collect.
 
 ### Data we collect
 Guess the Image only stores Server IDs, User IDs and Channel IDs.
